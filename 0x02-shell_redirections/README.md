@@ -1,1 +1,1 @@
-This script displays the  first 10 lines of /etc/passwd
+This script displays the third line of the file iacta
