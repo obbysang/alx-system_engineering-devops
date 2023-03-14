@@ -1,1 +1,1 @@
-This script prints a confused smiley face, '(Ôo)', enclosed in double quotes.
+This script prints a confused smiley face to the standard output.
