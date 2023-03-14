@@ -1,1 +1,1 @@
-This script prints 'Hello, World' followed by a new line to the standard output.
+This script prints a confused smiley face, '(Ôo)', enclosed in double quotes.
